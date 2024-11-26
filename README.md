@@ -49,44 +49,45 @@ The data for this project comprises a diverse collection of sepsis cases obtaine
 
 # Data Fields
 
-|Column Name	  | Data Features  |	Description
+|:Column Name:	  | :Data Features:  |	:Description:
 ---------------------------------------------------------------------------------------------------------------------------------------
-REGION           	Categorical	     The location of each client
----------------------------------------------------------------------------------------------------------------------------------------
-TENURE	          Numeric	         Duration with the network
----------------------------------------------------------------------------------------------------------------------------------------
-MONTANT           Numeric	         Top-Up Amount
----------------------------------------------------------------------------------------------------------------------------------------
-FREQUENCE_RECH	  Numeric	         The number of times a customer refilled
----------------------------------------------------------------------------------------------------------------------------------------
-REVENUE	          Numeric	         Monthly income of each client
----------------------------------------------------------------------------------------------------------------------------------------
-ARPU_SEGMENT	    Numeric	         Income over 90 days divided by 3
----------------------------------------------------------------------------------------------------------------------------------------
-FREQUENCE         Numeric	         Number of times the client has made an income
----------------------------------------------------------------------------------------------------------------------------------------
-DATA_VOLUME	      Numeric	         Number of connections
----------------------------------------------------------------------------------------------------------------------------------------
-ON_NET	          Numeric	         Inter Expresso call
----------------------------------------------------------------------------------------------------------------------------------------
-ORANGE	          Numeric	         Calls to Orange
----------------------------------------------------------------------------------------------------------------------------------------
-TIGO	            Numeric	         Calls to Tigo
----------------------------------------------------------------------------------------------------------------------------------------
-ZONE1	            Numeric	         Calls to Zone1
----------------------------------------------------------------------------------------------------------------------------------------
-ZONE2            	Numeric          Calls to Zone2
----------------------------------------------------------------------------------------------------------------------------------------
-MRG	              Categorical	     A client who is going
----------------------------------------------------------------------------------------------------------------------------------------
-REGULARITY	      Numeric	         Number of times the client is active for 90 days
----------------------------------------------------------------------------------------------------------------------------------------
-TOP_PACK        	Categorical      The most active packs
----------------------------------------------------------------------------------------------------------------------------------------
-FREQ_TOP_PACK     Numeric	         Number of times the client has activated the top pack packages
----------------------------------------------------------------------------------------------------------------------------------------
-CHURN	            Binary	         Target variable to predict - Churn (Positive: customer will churn, Negative: customer will not churn)
----------------------------------------------------------------------------------------------------------------------------------------
+REGION          | 	Categorical	 |    The location of each client
+
+TENURE	        |   Numeric	     |    Duration with the network
+
+MONTANT         |   Numeric	     |    Top-Up Amount
+
+FREQUENCE_RECH	|   Numeric	     |    The number of times a customer refilled
+
+REVENUE	        |   Numeric	     |    Monthly income of each client
+
+ARPU_SEGMENT	  |   Numeric	     |    Income over 90 days divided by 3
+
+FREQUENCE       |   Numeric	     |    Number of times the client has made an income
+
+DATA_VOLUME	    |   Numeric	     |    Number of connections
+
+ON_NET	        |   Numeric	     |    Inter Expresso call
+
+ORANGE	        |   Numeric	     |    Calls to Orange
+
+TIGO	          |   Numeric	     |    Calls to Tigo
+
+ZONE1	          |   Numeric	     |    Calls to Zone1
+
+ZONE2           |   Numeric      |    Calls to Zone2
+
+MRG	            |   Categorical	 |    A client who is going
+
+REGULARITY	    |   Numeric	     |    Number of times the client is active for 90 days
+
+TOP_PACK        | 	Categorical  |    The most active packs
+
+FREQ_TOP_PACK   |   Numeric	     |    Number of times the client has activated the top pack packages
+
+CHURN	          |   Binary	     |   Target variable to predict - Churn (Positive: customer will churn, Negative: customer will not churn)
+
+
 
 # Exploratory Data Analysis
 The exploratory data analysis (EDA) on telco customer churn can provide valuable insights into the factors that influence customer churn rates such 
