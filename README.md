@@ -6,8 +6,7 @@ The Telco-Churn-Classification challenge involves creating a machine learning mo
 
 The solution proposed from this project will help the Telco serve its customers better by identifying customers that are at risk of churning.
 
-# Project Objective 
-![image](https://github.com/user-attachments/assets/ef3059b3-d8fb-4a17-89a4-062f3d7d460e)
+# Project Objective      ![image](https://github.com/user-attachments/assets/ef3059b3-d8fb-4a17-89a4-062f3d7d460e)
 1.Predict Customer Churn: Develop a machine learning model to accurately predict which customers are likely to become inactive or leave the service.
 2. Identify Key Drivers: Analyze data to identify the main factors that contribute to customer churn, such as usage patterns, customer demographics, and service issues.
 3. Enhance Customer Retention: Use insights from the model to design targeted retention strategies aimed at reducing churn and improving customer satisfaction.
