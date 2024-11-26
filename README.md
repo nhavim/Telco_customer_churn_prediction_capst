@@ -217,3 +217,30 @@ Here's a step-by-step process on how to use the Streamlit App on Huggingface:
 * 3. Click the "Predict" button to initiate the prediction.
 * 4. The app will simulate a prediction process with a progress bar.
 * 5. Once the prediction is complete, the results will be displayed below.
+![image](https://github.com/user-attachments/assets/bb232c58-8a09-4a4f-b3a0-244dfad25321)
+
+![image](https://github.com/user-attachments/assets/f192d1c2-c0c4-4b6c-bfe0-6c63c25e8351)
+
+![image](https://github.com/user-attachments/assets/5be660c5-9afe-460f-880b-de6c5f0b9119)
+
+### Fastapi on Huggingface
+Here's a step-by-step process on how to use the [FastAPI](https://abubakari-expresso-churn-prediction-fastapi.hf.space/docs) on Huggingface:
+
+![image](https://github.com/user-attachments/assets/5d34596e-2711-406e-b803-109a047750dd)
+
+# Contribution
+Get involved! Contribute to Expresso Churn classification project on GitHub and be part of a community that's changing the game!
+
+## How to Contribute
+
+* 1. Fork the repository on GitHub
+* 2. Choose an issue to work on from our issue tracker
+* 3. Submit a pull request with your changes
+* 4. Join our community chat to discuss your contribution
+
+We look forward to collaborating with you!
+
+# Author
+Nathaniel Havim          [LinkedIn](https://www.linkedin.com/in/nathaniel-havim/) 
+Data Analyst
+Azubi Africa
