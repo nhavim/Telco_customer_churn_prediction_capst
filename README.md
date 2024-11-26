@@ -18,7 +18,6 @@ The solution proposed from this project will help the Telco serve its customers 
 
 ## Project Summary
 |  Code   |  Project name                                   |  Published Article |  Deployed App                                                 | Streamlit App                                  |
-|:---:|:---:|:---:|:---:|:---:|
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |Capstone | Churn Prediction Classification with FastAPI and Streamlit| [Medium Article](---)     |  [FastAPI](https://abubakari-expresso-churn-prediction-fastapi.hf.space/docs) | [Streamlit App](https://abubakari-expresso-churn-prediction-streamlit.hf.space/)
 
