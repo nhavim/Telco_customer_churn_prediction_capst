@@ -1,10 +1,8 @@
-# Telco_customer_churn_classification
-![image](https://github.com/user-attachments/assets/ba9bdc86-477c-4dfd-bba3-0cd21dab825d)
-
-
+# Expresso_customer_churn_classification
 
 ## Overview
 The Telco-Churn-Classification challenge involves creating a machine learning model for an African telecom company to predict customer churn. Churn refers to customers becoming inactive and not making any transactions for 90 days. By identifying these potential churners, the company can take proactive steps to retain them and boost customer satisfaction.
+![image](https://github.com/user-attachments/assets/ba9bdc86-477c-4dfd-bba3-0cd21dab825d)
 
 The solution proposed from this project will help the Telco serve its customers better by identifying customers that are at risk of churning.
 
