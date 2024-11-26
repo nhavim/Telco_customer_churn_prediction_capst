@@ -227,18 +227,20 @@ Here's a step-by-step process on how to use the [FastAPI](https://abubakari-expr
 ![image](https://github.com/user-attachments/assets/5d34596e-2711-406e-b803-109a047750dd)
 
 # Contribution
-Get involved! Contribute to Expresso Churn classification project on GitHub and be part of a community that's changing the game!
+Get involved! Contribute to the Expresso Churn classification project on GitHub and be part of a community that's changing the game!
 
 ## How to Contribute
 
 * 1. Fork the repository on GitHub
-* 2. Choose an issue to work on from our issue tracker
-* 3. Submit a pull request with your changes
-* 4. Join our community chat to discuss your contribution
+* 2. Choose an issue to work on
+* 3. Submit a pull request with your changes to a new branch
 
 We look forward to collaborating with you!
 
 # Author
-Nathaniel Havim          [LinkedIn](https://www.linkedin.com/in/nathaniel-havim/) 
-Data Analyst
+Nathaniel Havim          
+
+* [LinkedIn](https://www.linkedin.com/in/nathaniel-havim/) 
+
+* Data Analyst
 Azubi Africa
