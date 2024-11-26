@@ -1,5 +1,6 @@
 # Telco_customer_churn_classification
-![image](https://github.com/user-attachments/assets/829bc91b-d65f-4c13-b5be-345d2b040ca7)
+![image](https://github.com/user-attachments/assets/ba9bdc86-477c-4dfd-bba3-0cd21dab825d)
+
 
 
 ## Overview
