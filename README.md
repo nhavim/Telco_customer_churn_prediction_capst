@@ -16,12 +16,13 @@ The solution proposed from this project will help the Telco serve its customers 
 * Optimize Resource Allocation: Focus retention efforts and resources on customers who are most at risk of churning, thereby maximizing the efficiency of retention campaigns.
 * Increase Revenue: By reducing churn, the company can maintain a stable customer base, leading to increased revenue and profitability.
 
-# Project Summary
-|  Code   |  Project name                                             |  Published Article |  Deployed App                                                      | Streamlit App                                  |
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+## Project Summary
+|  Code   |  Project name                                   |  Published Article |  Deployed App                                                 | Streamlit App                                  |
+|:---:|:---:|:---:|:---:|:---:|
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 |Capstone | Churn Prediction Classification with FastAPI and Streamlit| [Medium Article](---)     |  [FastAPI](https://abubakari-expresso-churn-prediction-fastapi.hf.space/docs) | [Streamlit App](https://abubakari-expresso-churn-prediction-streamlit.hf.space/)
 
-# Project Setup
+## Project Setup
 To set up the project environment, follow these steps:
 
 1. Clone the repository:
@@ -44,11 +45,11 @@ source venv/bin/activate
 
 You can copy each command above and run them in your terminal to easily set up the project environment.
 
-# Data
+## Data
 
 The data for this project comprises a diverse collection of sepsis cases obtained from various sources [Zindi](https://zindi.africa/competitions/customer-churn-prediction-challenge-for-azubian)
 
-# Data Fields
+## Data Fields
 
 |   Column Name   |  Data Features  |	Description                                                                                            |
 |:---:|:---:|:---|
@@ -71,7 +72,7 @@ The data for this project comprises a diverse collection of sepsis cases obtaine
 |  FREQ_TOP_PACK  |   Numeric	      |    Number of times the client has activated the top pack packages                                      |
 |  CHURN	        |   Binary	      |   Target variable to predict - Churn (Positive: customer will churn, Negative: customer will not churn)|
 
-# Exploratory Data Analysis
+## Exploratory Data Analysis
 The exploratory data analysis (EDA) on telco customer churn can provide valuable insights into the factors that influence customer churn rates such 
 
 * Univariate analysis: At this phase, each individual variable in the dataset is thoroughly examined. Summary statistics such as mean, median, standard deviation, and quartiles were calculated to understand the central tendency and spread of the data.
@@ -88,7 +89,7 @@ The exploratory data analysis (EDA) on telco customer churn can provide valuable
  ![image](https://github.com/user-attachments/assets/f063365c-aae1-467e-ad33-dca9d96b8756)
 
 
-# Hypothesis
+## Hypothesis
 ![image](https://github.com/user-attachments/assets/c52ffc5e-3544-48c9-84b1-b4030a365986)
 
 Hypotheses were developed based on prior knowledge and existing research. Depending on the nature of the variables, statistical tests such as t-tests, chi-square tests, or ANOVA were employed to test these hypotheses. The outcomes of these tests either validated or refuted the hypotheses, offering further insights into the relationships between the variables.
@@ -105,7 +106,7 @@ Hypotheses were developed based on prior knowledge and existing research. Depend
 
 These hypotheses, along with the results of the EDA, contribute to a deeper understanding of the dataset and provide valuable insights for further analysis and model development.
 
-## Business Question
+### Business Question
  *  1. What is the overall churn rate for the telecom company during the observed period?
 ![image](https://github.com/user-attachments/assets/24967b33-6986-4467-8730-82f51364cf2c)
 
