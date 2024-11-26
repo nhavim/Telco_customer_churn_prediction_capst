@@ -51,7 +51,7 @@ The data for this project comprises a diverse collection of sepsis cases obtaine
 # Data Fields
 
 |   Column Name   |  Data Features  |	Description                                                                                            |
----------------------------------------------------------------------------------------------------------------------------------------------
+|:---:|:---:|:---|
 | REGION          | 	Categorical	  |    The location of each client                                                                         |
 | TENURE	        |   Numeric	      |    Duration with the network                                                                           |
 | MONTANT         |   Numeric	      |    Top-Up Amount                                                                                       |
