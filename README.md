@@ -4,15 +4,15 @@
 The Telco-Churn-Classification challenge involves creating a machine learning model for an African telecom company to predict customer churn. Churn refers to customers becoming inactive and not making any transactions for 90 days. By identifying these potential churners, the company can take proactive steps to retain them and boost customer satisfaction.
 ![image](https://github.com/user-attachments/assets/ba9bdc86-477c-4dfd-bba3-0cd21dab825d)
 
-The solution proposed from this project will help the Telco serve its customers better by identifying customers that are at risk of churning.
+The solution proposed in this project will help Telco serve its customers better by identifying customers that are at risk of churning.
 
 # Project Objective 
 * Predict Customer Churn: Develop a machine learning model to accurately predict which customers are likely to become inactive or leave the service.
 * Identify Key Drivers: Analyze data to identify the main factors that contribute to customer churn, such as usage patterns, customer demographics, and service issues.
-* Enhance Customer Retention: Use insights from the model to design targeted retention strategies aimed at reducing churn and improving customer satisfaction.
-* Improve Decision-Making: Provide actionable insights to help the company make data-driven decisions regarding customer service, marketing, and product development.
+* Enhance Customer Retention: Use insights from the model to design targeted retention strategies that will reduce churn and improve customer satisfaction.
+* Improve Decision-Making: Provide actionable insights to help the company make data-driven customer service, marketing, and product development decisions.
 * Optimize Resource Allocation: Focus retention efforts and resources on customers who are most at risk of churning, thereby maximizing the efficiency of retention campaigns.
-* Increase Revenue: By reducing churn, the company can maintain a stable customer base, leading to increased revenue and profitability.
+* Increase Revenue: By reducing churn, the company can maintain a stable customer base, increasing revenue and profitability.
 
 ## Project Summary
 |  Code   |  Project name          |  Published Article |  Deployed App     | Streamlit App                                  |
@@ -25,7 +25,7 @@ To set up the project environment, follow these steps:
 1. Clone the repository:
 git clone my_github
 
-https://github.com/aliduabubakari/Expresso-Telco-Churn-Classification.git
+https://github.com/nhavim/Telco_customer_churn_prediction_capst.git
 
 2. Install the required dependencies:
 pip install -r requirements.txt
